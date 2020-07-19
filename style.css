@@ -1,0 +1,17 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+body{
+    background: white url("img/free-background-images-for-websites-ZVtd.jpg") no-repeat;
+}
+.forma{
+    background-color: violet;
+    height: 300px;
+    widows: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+
+}
